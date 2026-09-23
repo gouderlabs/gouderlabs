@@ -8,5 +8,5 @@ focused on fraud detection, data pipelines, and process automation.
 **Currently exploring:** Applying AI/ML to banking and fintech use cases
 
 📂 Projects: below
-🔗 LinkedIn: [lien à ajouter une fois la Page créée]
+🔗 LinkedIn: https://www.linkedin.com/in/gouder-labs-9a2aa1439/
 📩 Contact: gouderlabs@gmail.com
